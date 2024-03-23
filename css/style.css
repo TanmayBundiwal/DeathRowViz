@@ -1,0 +1,165 @@
+body {
+  font-family: Helvetica, sans-serif;
+  padding: 20px 40px;
+}
+
+h1 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 40px;
+  fill: #9e3434aa;
+}
+
+#vis {
+  vertical-align: top;
+  align-items: center;
+  border-width: 1cm;
+}
+
+.box {
+  display: inline-block;
+}
+
+/*
+Geomap
+*/
+
+.country:hover {
+  stroke: #333;
+}
+
+/*
+Barchart
+*/
+
+.axis line {
+  stroke: #a4a4a4;
+}
+
+.axis text {
+  fill: #6b6b6b;
+}
+
+.x-axis .domain {
+  stroke: #a4a4a4;
+}
+
+.y-axis .domain {
+  stroke: #a4a4a4;
+}
+
+.bar:hover{
+  stroke: #333
+}
+
+.axis-title {
+  font-size: 11px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  fill: #b1b0b0;
+}
+
+/*
+Piechart
+*/
+.wedge:hover {
+  stroke: #333
+}
+
+.wedge-active {
+  stroke: rgb(68, 68, 68);
+  stroke-width: 0.12em;
+}
+
+/*
+Piechart
+*/
+.bar:hover {
+  stroke: #333
+}
+
+.bar-active {
+  stroke: rgb(68, 68, 68);
+  stroke-width: 0.12em;
+}
+
+
+
+/*
+Tooltips and legends
+*/
+
+#tooltip {
+  position: absolute;
+  display: none;
+  background: #fff;
+  box-shadow: 3px 3px 3px 0px rgb(92 92 92 / 0.5);
+  border: 1px solid #ddd;
+  font-size: 12px;
+  font-weight: 500;
+  padding: 8px;
+  min-width: 160px;
+  color: #333;
+}
+
+.tooltip-title {
+  color: #000;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.legend-title {
+  font-size: .7rem;
+  font-weight: 600;
+}
+
+.legend-label {
+  font-size: .7rem;
+}
+
+.legend-entry-label {
+  font-size: 0.7em;
+  font-family: Helvetica, sans-serif;
+  fill: #595959;
+  font-weight: 400;
+}
+
+/* 
+Slider 
+*/
+
+#slider-label {
+  color: #313131;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-style: oblique;
+  font-size: 25px;
+}
+
+#slider {
+  width: 80%;
+  height: 20px;
+}
+
+#pres,
+#par{
+  font-size: 20px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-style: oblique;
+  color: #6b6b6b;
+}
+
+#president,
+#party{
+  font-size: 20px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-style: oblique;
+}
+
+/* 
+Chart titles 
+*/
+
+.chartTitle {
+  fill: #6b6b6b;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-style: oblique;
+  font-size: 20px;
+}

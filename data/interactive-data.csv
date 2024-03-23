@@ -1,0 +1,480 @@
+region,year,pop_density
+Alabama,1976-1980,102
+Arkansas,1976-1980,26
+Arizona,1976-1980,32
+California,1976-1980,37
+Colorado,1976-1980,13
+Florida,1976-1980,70
+Georgia,1976-1980,57
+Idaho,1976-1980,1
+Indiana,1976-1980,2
+Kansas,1976-1980,4
+Kentucky,1976-1980,3
+Iowa,1976-1980,0
+Illinois,1976-1980,8
+New York,1976-1980,6
+Louisiana,1976-1980,9
+Oklahoma,1976-1980,19
+Missouri,1976-1980,0
+Texas,1976-1980,47
+Minnesota,1976-1980,1
+Mississippi,1976-1980,3
+Montana,1976-1980,1
+North Carolina,1976-1980,18
+New Hampshire,1976-1980,0
+Nebraska,1976-1980,2
+Nevada,1976-1980,3
+Ohio,1976-1980,8
+Oregon,1976-1980,0
+New Mexico,1976-1980,1
+Pennsylvania,1976-1980,9
+Maine,1976-1980,1
+South Carolina,1976-1980,7
+Maryland,1976-1980,0
+South Dakota,1976-1980,0
+Tennessee,1976-1980,0
+Michigan,1976-1980,0
+Utah,1976-1980,1
+Virginia,1976-1980,4
+Connecticut,1976-1980,0
+Massachusetts,1976-1980,0
+Wyoming,1976-1980,1
+Alabama,1980-1984,144
+Arkansas,1980-1984,47
+Arizona,1980-1984,37
+California,1980-1984,146
+Colorado,1980-1984,11
+Florida,1980-1984,108
+Georgia,1980-1984,68
+Idaho,1980-1984,6
+Indiana,1980-1984,9
+Kansas,1980-1984,14
+Kentucky,1980-1984,9
+Iowa,1980-1984,4
+Illinois,1980-1984,11
+New York,1980-1984,10
+Louisiana,1980-1984,10
+Oklahoma,1980-1984,23
+Missouri,1980-1984,10
+Texas,1980-1984,27
+Minnesota,1980-1984,4
+Mississippi,1980-1984,4
+Montana,1980-1984,1
+North Carolina,1980-1984,27
+New Hampshire,1980-1984,0
+Nebraska,1980-1984,3
+Nevada,1980-1984,9
+Ohio,1980-1984,9
+Oregon,1980-1984,0
+New Mexico,1980-1984,1
+Pennsylvania,1980-1984,40
+Maine,1980-1984,4
+South Carolina,1980-1984,17
+Maryland,1980-1984,0
+South Dakota,1980-1984,0
+Tennessee,1980-1984,3
+Michigan,1980-1984,0
+Utah,1980-1984,3
+Virginia,1980-1984,14
+Connecticut,1980-1984,0
+Massachusetts,1980-1984,0
+Wyoming,1980-1984,0
+Alabama,1984-1988,164
+Arkansas,1984-1988,45
+Arizona,1984-1988,32
+California,1984-1988,109
+Colorado,1984-1988,11
+Florida,1984-1988,152
+Georgia,1984-1988,72
+Idaho,1984-1988,10
+Indiana,1984-1988,7
+Kansas,1984-1988,12
+Kentucky,1984-1988,8
+Iowa,1984-1988,9
+Illinois,1984-1988,14
+New York,1984-1988,11
+Louisiana,1984-1988,12
+Oklahoma,1984-1988,41
+Missouri,1984-1988,17
+Texas,1984-1988,59
+Minnesota,1984-1988,6
+Mississippi,1984-1988,2
+Montana,1984-1988,1
+North Carolina,1984-1988,36
+New Hampshire,1984-1988,2
+Nebraska,1984-1988,3
+Nevada,1984-1988,5
+Ohio,1984-1988,31
+Oregon,1984-1988,1
+New Mexico,1984-1988,1
+Pennsylvania,1984-1988,49
+Maine,1984-1988,2
+South Carolina,1984-1988,25
+Maryland,1984-1988,0
+South Dakota,1984-1988,0
+Tennessee,1984-1988,2
+Michigan,1984-1988,0
+Utah,1984-1988,3
+Virginia,1984-1988,18
+Connecticut,1984-1988,0
+Massachusetts,1984-1988,0
+Wyoming,1984-1988,0
+Alabama,1988-1992,147
+Arkansas,1988-1992,58
+Arizona,1988-1992,41
+California,1988-1992,136
+Colorado,1988-1992,9
+Florida,1988-1992,143
+Georgia,1988-1992,53
+Idaho,1988-1992,8
+Indiana,1988-1992,11
+Kansas,1988-1992,15
+Kentucky,1988-1992,14
+Iowa,1988-1992,3
+Illinois,1988-1992,10
+New York,1988-1992,4
+Louisiana,1988-1992,3
+Oklahoma,1988-1992,38
+Missouri,1988-1992,12
+Texas,1988-1992,52
+Minnesota,1988-1992,6
+Mississippi,1988-1992,9
+Montana,1988-1992,0
+North Carolina,1988-1992,40
+New Hampshire,1988-1992,4
+Nebraska,1988-1992,1
+Nevada,1988-1992,4
+Ohio,1988-1992,25
+Oregon,1988-1992,9
+New Mexico,1988-1992,2
+Pennsylvania,1988-1992,57
+Maine,1988-1992,2
+South Carolina,1988-1992,15
+Maryland,1988-1992,0
+South Dakota,1988-1992,1
+Tennessee,1988-1992,4
+Michigan,1988-1992,1
+Utah,1988-1992,3
+Virginia,1988-1992,14
+Connecticut,1988-1992,1
+Massachusetts,1988-1992,0
+Wyoming,1988-1992,0
+Alabama,1992-1996,157
+Arkansas,1992-1996,59
+Arizona,1992-1996,46
+California,1992-1996,147
+Colorado,1992-1996,13
+Florida,1992-1996,118
+Georgia,1992-1996,80
+Idaho,1992-1996,5
+Indiana,1992-1996,10
+Kansas,1992-1996,17
+Kentucky,1992-1996,9
+Iowa,1992-1996,6
+Illinois,1992-1996,15
+New York,1992-1996,5
+Louisiana,1992-1996,20
+Oklahoma,1992-1996,33
+Missouri,1992-1996,11
+Texas,1992-1996,64
+Minnesota,1992-1996,6
+Mississippi,1992-1996,10
+Montana,1992-1996,0
+North Carolina,1992-1996,75
+New Hampshire,1992-1996,2
+Nebraska,1992-1996,3
+Nevada,1992-1996,9
+Ohio,1992-1996,22
+Oregon,1992-1996,7
+New Mexico,1992-1996,1
+Pennsylvania,1992-1996,66
+Maine,1992-1996,6
+South Carolina,1992-1996,20
+Maryland,1992-1996,2
+South Dakota,1992-1996,1
+Tennessee,1992-1996,2
+Michigan,1992-1996,0
+Utah,1992-1996,1
+Virginia,1992-1996,19
+Connecticut,1992-1996,0
+Massachusetts,1992-1996,1
+Wyoming,1992-1996,1
+Alabama,1996-2000,186
+Arkansas,1996-2000,55
+Arizona,1996-2000,27
+California,1996-2000,159
+Colorado,1996-2000,8
+Florida,1996-2000,84
+Georgia,1996-2000,96
+Idaho,1996-2000,4
+Indiana,1996-2000,9
+Kansas,1996-2000,12
+Kentucky,1996-2000,10
+Iowa,1996-2000,7
+Illinois,1996-2000,11
+New York,1996-2000,6
+Louisiana,1996-2000,22
+Oklahoma,1996-2000,41
+Missouri,1996-2000,9
+Texas,1996-2000,55
+Minnesota,1996-2000,8
+Mississippi,1996-2000,10
+Montana,1996-2000,0
+North Carolina,1996-2000,62
+New Hampshire,1996-2000,1
+Nebraska,1996-2000,3
+Nevada,1996-2000,6
+Ohio,1996-2000,20
+Oregon,1996-2000,2
+New Mexico,1996-2000,3
+Pennsylvania,1996-2000,49
+Maine,1996-2000,6
+South Carolina,1996-2000,21
+Maryland,1996-2000,3
+South Dakota,1996-2000,1
+Tennessee,1996-2000,2
+Michigan,1996-2000,1
+Utah,1996-2000,2
+Virginia,1996-2000,13
+Connecticut,1996-2000,0
+Massachusetts,1996-2000,0
+Wyoming,1996-2000,1
+Alabama,2000-2004,110
+Arkansas,2000-2004,35
+Arizona,2000-2004,20
+California,2000-2004,101
+Colorado,2000-2004,10
+Florida,2000-2004,50
+Georgia,2000-2004,51
+Idaho,2000-2004,3
+Indiana,2000-2004,8
+Kansas,2000-2004,12
+Kentucky,2000-2004,5
+Iowa,2000-2004,4
+Illinois,2000-2004,14
+New York,2000-2004,1
+Louisiana,2000-2004,10
+Oklahoma,2000-2004,26
+Missouri,2000-2004,5
+Texas,2000-2004,56
+Minnesota,2000-2004,3
+Mississippi,2000-2004,7
+Montana,2000-2004,0
+North Carolina,2000-2004,29
+New Hampshire,2000-2004,1
+Nebraska,2000-2004,5
+Nevada,2000-2004,5
+Ohio,2000-2004,8
+Oregon,2000-2004,1
+New Mexico,2000-2004,3
+Pennsylvania,2000-2004,25
+Maine,2000-2004,3
+South Carolina,2000-2004,17
+Maryland,2000-2004,2
+South Dakota,2000-2004,1
+Tennessee,2000-2004,2
+Michigan,2000-2004,1
+Utah,2000-2004,0
+Virginia,2000-2004,12
+Connecticut,2000-2004,0
+Massachusetts,2000-2004,0
+Wyoming,2000-2004,0
+Alabama,2004-2008,87
+Arkansas,2004-2008,27
+Arizona,2004-2008,25
+California,2004-2008,75
+Colorado,2004-2008,5
+Florida,2004-2008,54
+Georgia,2004-2008,31
+Idaho,2004-2008,2
+Indiana,2004-2008,4
+Kansas,2004-2008,6
+Kentucky,2004-2008,2
+Iowa,2004-2008,3
+Illinois,2004-2008,7
+New York,2004-2008,0
+Louisiana,2004-2008,5
+Oklahoma,2004-2008,20
+Missouri,2004-2008,2
+Texas,2004-2008,26
+Minnesota,2004-2008,3
+Mississippi,2004-2008,8
+Montana,2004-2008,0
+North Carolina,2004-2008,9
+New Hampshire,2004-2008,1
+Nebraska,2004-2008,0
+Nevada,2004-2008,0
+Ohio,2004-2008,10
+Oregon,2004-2008,1
+New Mexico,2004-2008,4
+Pennsylvania,2004-2008,20
+Maine,2004-2008,0
+South Carolina,2004-2008,11
+Maryland,2004-2008,0
+South Dakota,2004-2008,0
+Tennessee,2004-2008,3
+Michigan,2004-2008,0
+Utah,2004-2008,0
+Virginia,2004-2008,3
+Connecticut,2004-2008,0
+Massachusetts,2004-2008,2
+Wyoming,2004-2008,1
+Alabama,2008-2012,76
+Arkansas,2008-2012,18
+Arizona,2008-2012,33
+California,2008-2012,89
+Colorado,2008-2012,6
+Florida,2008-2012,47
+Georgia,2008-2012,15
+Idaho,2008-2012,1
+Indiana,2008-2012,5
+Kansas,2008-2012,6
+Kentucky,2008-2012,1
+Iowa,2008-2012,0
+Illinois,2008-2012,4
+New York,2008-2012,1
+Louisiana,2008-2012,8
+Oklahoma,2008-2012,10
+Missouri,2008-2012,2
+Texas,2008-2012,20
+Minnesota,2008-2012,3
+Mississippi,2008-2012,2
+Montana,2008-2012,0
+North Carolina,2008-2012,8
+New Hampshire,2008-2012,1
+Nebraska,2008-2012,1
+Nevada,2008-2012,2
+Ohio,2008-2012,6
+Oregon,2008-2012,1
+New Mexico,2008-2012,0
+Pennsylvania,2008-2012,15
+Maine,2008-2012,3
+South Carolina,2008-2012,4
+Maryland,2008-2012,1
+South Dakota,2008-2012,1
+Tennessee,2008-2012,0
+Michigan,2008-2012,0
+Utah,2008-2012,1
+Virginia,2008-2012,2
+Connecticut,2008-2012,0
+Massachusetts,2008-2012,0
+Wyoming,2008-2012,0
+Alabama,2012-2016,43
+Arkansas,2012-2016,16
+Arizona,2012-2016,14
+California,2012-2016,67
+Colorado,2012-2016,6
+Florida,2012-2016,47
+Georgia,2012-2016,12
+Idaho,2012-2016,0
+Indiana,2012-2016,3
+Kansas,2012-2016,4
+Kentucky,2012-2016,0
+Iowa,2012-2016,2
+Illinois,2012-2016,2
+New York,2012-2016,1
+Louisiana,2012-2016,2
+Oklahoma,2012-2016,7
+Missouri,2012-2016,2
+Texas,2012-2016,15
+Minnesota,2012-2016,0
+Mississippi,2012-2016,2
+Montana,2012-2016,0
+North Carolina,2012-2016,4
+New Hampshire,2012-2016,0
+Nebraska,2012-2016,1
+Nevada,2012-2016,0
+Ohio,2012-2016,4
+Oregon,2012-2016,0
+New Mexico,2012-2016,0
+Pennsylvania,2012-2016,7
+Maine,2012-2016,2
+South Carolina,2012-2016,2
+Maryland,2012-2016,0
+South Dakota,2012-2016,1
+Tennessee,2012-2016,1
+Michigan,2012-2016,0
+Utah,2012-2016,0
+Virginia,2012-2016,0
+Connecticut,2012-2016,0
+Massachusetts,2012-2016,0
+Wyoming,2012-2016,0
+Alabama,2016-2019,19
+Arkansas,2016-2019,16
+Arizona,2016-2019,7
+California,2016-2019,25
+Colorado,2016-2019,2
+Florida,2016-2019,11
+Georgia,2016-2019,4
+Idaho,2016-2019,1
+Indiana,2016-2019,1
+Kansas,2016-2019,1
+Kentucky,2016-2019,0
+Iowa,2016-2019,0
+Illinois,2016-2019,1
+New York,2016-2019,0
+Louisiana,2016-2019,1
+Oklahoma,2016-2019,3
+Missouri,2016-2019,1
+Texas,2016-2019,7
+Minnesota,2016-2019,0
+Mississippi,2016-2019,0
+Montana,2016-2019,0
+North Carolina,2016-2019,1
+New Hampshire,2016-2019,0
+Nebraska,2016-2019,1
+Nevada,2016-2019,0
+Ohio,2016-2019,7
+Oregon,2016-2019,0
+New Mexico,2016-2019,0
+Pennsylvania,2016-2019,2
+Maine,2016-2019,1
+South Carolina,2016-2019,0
+Maryland,2016-2019,0
+South Dakota,2016-2019,0
+Tennessee,2016-2019,0
+Michigan,2016-2019,0
+Utah,2016-2019,0
+Virginia,2016-2019,0
+Connecticut,2016-2019,0
+Massachusetts,2016-2019,0
+Wyoming,2016-2019,0
+Alabama,2020,1231
+Arkansas,2020,405
+Arizona,2020,313
+California,2020,1087
+Colorado,2020,94
+Florida,2020,879
+Georgia,2020,539
+Idaho,2020,41
+Indiana,2020,62
+Kansas,2020,104
+Kentucky,2020,60
+Iowa,2020,38
+Illinois,2020,97
+New York,2020,45
+Oklahoma,2020,258
+Missouri,2020,50
+Texas,2020,428
+Minnesota,2020,40
+Mississippi,2020,54
+Montana,2020,3
+North Carolina,2020,307
+New Hampshire,2020,12
+Nebraska,2020,21
+Nevada,2020,42
+Ohio,2020,151
+Oregon,2020,22
+New Mexico,2020,16
+Pennsylvania,2020,340
+Maine,2020,30
+South Carolina,2020,139
+Maryland,2020,8
+South Dakota,2020,6
+Tennessee,2020,19
+Michigan,2020,3
+Utah,2020,14
+Virginia,2020,54
+Connecticut,2020,1
+Massachusetts,2020,3
+Wyoming,2020,4

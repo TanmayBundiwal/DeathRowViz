@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Death Penalties</title>
+    <meta charset="UTF-8">
+    <link rel="icon" href="data:;base64,iVBORwOKGO=" />
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>    
+    <!-- Add HTML content, SVG drawing area, ... -->
+    <div class="container">
+        <h1 id="title">Death Penalties</h1>
+        <div id="vis">
+            <div><svg id="geochart" style="border: thin solid #ddd"></svg></div>
+            <div>
+                <div class="box"><svg id="barchart" style="border: thin solid #ddd"></svg></div>
+                <div class="box"><svg id="piechart" style="border: thin solid #ddd"></svg></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- <svg id="barchart"></svg> -->
+    <div id="tooltip"></div>
+
+    <!-- HTML for Slider -->
+    <div id="slide">
+        <div>
+            <label id="slider-label">Year: <span id="value"></span></label>
+            <input type="range" id="slider" min="1976" max="2016" value="1976" step="4">
+        </div>
+        <div>
+            <label id="pres">President: <span id="president"></span></label>
+            <label id="par">Party: <span id="party"></span></label>
+        </div>
+    </div>
+    
+
+    <!-- D3 bundle -->
+    <script src="js/d3.v6.min.js"></script>
+    <script src="js/topojson.v3.js"></script>
+
+    <!-- Our JS code -->
+    <script src="js/stateCodes.js"></script>
+    <script src="js/countyToState.js"></script>
+    <script src="js/preProcessMapData.js"></script>
+    <script src="js/geoMap.js"></script>
+    <script src="js/pieChart.js"></script>
+    <script src="js/barchart.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>
